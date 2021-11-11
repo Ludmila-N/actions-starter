@@ -1,3 +1,5 @@
+[![Output context](https://github.com/Ludmila-N/actions-starter/actions/workflows/basic.yml/badge.svg)](https://github.com/Ludmila-N/actions-starter/actions/workflows/basic.yml)
+
 # Hands-on exercise 1 🎉
 
 ## Usage
