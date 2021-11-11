@@ -10,6 +10,7 @@ on:
 jobs:
   build:
     # The type of runner that the job will run on
+    # LN to research: "this is the label for one of the offered GH runners"
     runs-on: ubuntu-20.04
 
     # Steps represent a sequence of tasks that will be executed as part of the job
@@ -28,6 +29,7 @@ jobs:
             core.endGroup();
       
       # This step checks out the workflow repository so that the runner can access the content
+      # LN to research: what's inside checkout action? https://github.com/actions/checkout
       - name: Checkout
         uses: actions/checkout@v2
         
